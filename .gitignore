@@ -1,0 +1,27 @@
+# =========================
+# Sistema operacional
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Editor (VS Code)
+# =========================
+.vscode/
+
+# =========================
+# Arquivos temporários
+# =========================
+*.log
+*.tmp
+
+# =========================
+# Dependências (caso use no futuro)
+# =========================
+node_modules/
+
+# =========================
+# Build (se usar frameworks depois)
+# =========================
+dist/
+build/
